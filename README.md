@@ -1,2 +1,2 @@
 # Youtube
-Neslihan Bozer Youtube Channel Solutions
+Neslihan Bozer Youtube Channel Algorithm Problem Solutions
